@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/icdiff.git]
+checkout = vcsh clone https://github.com/bobo52310/vcsh_icdiff.git icdiff
